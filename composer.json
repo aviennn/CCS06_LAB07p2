@@ -1,0 +1,16 @@
+{
+    "name": "app/php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Avien Flaire C. Batul",
+            "email": "avienflairebatul@gmail.com"
+        }
+    ],
+    "require": {}
+}
